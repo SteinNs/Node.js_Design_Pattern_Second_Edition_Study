@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "from2-array": "^0.0.4",
+    "through": "^2.3.8"
+  }
+}
