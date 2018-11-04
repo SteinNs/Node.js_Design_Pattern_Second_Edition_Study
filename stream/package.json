@@ -13,6 +13,7 @@
     "chance": "^1.0.16",
     "from2-array": "^0.0.4",
     "mkdirp": "^0.5.1",
+    "multipipe": "^2.0.3",
     "through2": "^2.0.3"
   }
 }
