@@ -2,8 +2,10 @@
   "dependencies": {
     "combine": "^0.1.4",
     "from2-array": "^0.0.4",
+    "fstream": "^1.0.11",
     "request": "^2.88.0",
     "split": "^1.0.1",
+    "tar": "^4.4.6",
     "through": "^2.3.8",
     "through2-parallel": "^0.1.3"
   }
