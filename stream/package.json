@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "chance": "^1.0.16",
-    "mkdirp": "^0.5.1"
+    "from2-array": "^0.0.4",
+    "mkdirp": "^0.5.1",
+    "through2": "^2.0.3"
   }
 }
