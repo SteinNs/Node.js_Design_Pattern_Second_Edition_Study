@@ -27,7 +27,7 @@ class ParallelStream extends stream.Transform {
       return this.emit('error', err);
     }
     if(this.running === 0){
-      this.terminateCallbac && this.terminateCallback();
+      this.terminateCallback && this.terminateCallback();
     }
   }
 }
